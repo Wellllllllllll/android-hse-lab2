@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List of products</string>
+    <string name="numberOfProduct">pc.</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="product">product</string>
+    <string name="productsList">List of products</string>
+    <string name="remove">Remove</string>
+</resources>
